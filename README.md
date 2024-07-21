@@ -1,1 +1,1 @@
-# CN_Project
+# smart-proxy-server
